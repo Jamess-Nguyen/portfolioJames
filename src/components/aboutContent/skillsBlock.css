@@ -1,0 +1,41 @@
+
+.skillBox{
+    background-color: yellow;
+    width: 75%;
+    margin: 0 auto;
+}
+
+
+.title{
+    width: 300px;
+    background-color: pink;
+    font-size: 3em;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Darker Grotesque', sans-serif;
+}
+
+.skillsFlex{
+    display: flex;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.testBox{
+    height: 300px;
+    width: 400px;
+    background-color: black;
+    margin: 5px;
+}
+
+@media all and (max-width: 1000px){
+    .skillsFlex{
+        display: flex;
+        background-color: red;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,48 @@
+  .borderBox{
+    display: block;
+    width: 70%;
+    height: 500px;
+    background-color: #f1f3f3;
+    border: 15px solid;
+    border-color: #111111;
+    margin: 100px 0 0px 13.5%;
+    animation-name: pullIn;
+    animation-duration: .25s; 
+  }
+
+  @keyframes pullIn {
+      0% {margin: 100px 0 0px 12%}
+      100% {margin: 100px 0 0px 13.5%}
+  }
+
+
+  .imageBorder{
+      border: 10px solid #c4c8c8;
+  }
+
+  .company{
+      color: #5e6060;
+      font-family: Cambria;
+      font-size: 3em;
+  }
+
+  .position{
+      color: #5e6060;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 25px;
+  }
+
+  .desc{
+      color: #5e6060;
+      font-family: Cambria;
+      font-size: 20px;
+  }
+
+  .contentBox{
+      width: 90%;
+      height: 90%;
+      margin: 0 auto;
+      padding: 10px;
+      text-align: center;
+
+  }

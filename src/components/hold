@@ -1,0 +1,32 @@
+import React, { Component } from 'react';
+import Appjam from './jobImages/Appjam.jpg';
+import Ex from './components/workExperience';
+import Toolbar from './components/navBar/reactNav';
+import LandingBanner from './components/landingBanner/landingBanner';
+
+class Experience extends Component {
+  render() {
+  return(
+    <div className="background">
+      <div className="app">
+        <div style={{height: '100%'}}>
+          <main style={{marginTop: '150px'}}>
+          <LandingBanner />
+          </main>
+          <Toolbar />
+          <Ex 
+          company="App Jam+" 
+          position="Computer Science Tutor"
+          image={Appjam}
+          descOne="Taught students the fundamental concepts of computer science and debugging"
+          descTwo="Developed android app using Google Thunkable" 
+          />
+        </div>
+      </div>  
+    </div>
+  );
+  }
+}
+
+
+export default Experience;

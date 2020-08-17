@@ -1,0 +1,19 @@
+#bannerToContent {
+    width: 100%;
+    height: 30px;
+    background-image: url("./bannerToContent.png");
+}
+
+#skillsDesc {
+    display: flex;  
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+    padding: 10px 0 10px 0;
+}
+#skillSplit{
+    height: 10px;
+}
+#base{
+    flex: 2;
+}
