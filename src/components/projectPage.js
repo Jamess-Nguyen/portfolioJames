@@ -6,8 +6,7 @@ import SkillsBlock from './aboutContent/skillsBlock'
 import TriangleDOWN from './aboutContent/TriangleDOWN.png'
 function Projects () {
     return(
-      <div>
-                  
+      <div>    
           <Banner />
           <div id="skillsDesc">
           <SkillsBlock/>

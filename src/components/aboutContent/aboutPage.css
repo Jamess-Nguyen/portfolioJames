@@ -17,3 +17,13 @@
 #base{
     flex: 2;
 }
+
+#smallspace{
+    display: block;
+}
+
+#new{
+    display: block;
+    height: 100px;
+    background-color: pink;
+}

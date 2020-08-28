@@ -63,7 +63,7 @@
 }
 #content_bot:hover button{
     opacity: 1;
-    display: block;
+    display: inline;
     background-color: transparent;
     color:#f8f9fa;
     transition-delay: 150ms;
@@ -104,7 +104,7 @@
 }
 #content_portfolio:hover button{
     opacity: 1;
-    display: block;
+    display: inline;
     background-color: transparent;
     color:#f8f9fa;
     transition-delay: 150ms;
@@ -146,7 +146,7 @@
 }
 #content_quiz:hover button{
     opacity: 1;
-    display: block;
+    display: inline;
     background-color: transparent;
     color:#f8f9fa;
     transition-delay: 150ms;
@@ -184,4 +184,8 @@
         margin: 5px;
         transition: background-color 150ms linear;
     }
+}
+
+#id{
+    background-color: black;
 }

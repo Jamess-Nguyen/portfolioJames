@@ -1,0 +1,221 @@
+@keyframes pullDown {
+    0% {height: 0px}
+    100% {height: 80px}
+}
+
+.tech{
+    display: flex;
+    background-color: #01A9DB;
+    height: 80px;
+    width: 300px;
+    border-radius: 15px;
+    margin: 5px 15px 15px 15px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 35px;
+    font-family: 'Yantramanav', 'Alata','Darker Grotesque', 'sans-serif';
+}
+
+.tech:after{
+    content: "FRAMEWORKS";
+}
+
+.tech:hover:after{
+    display: flex;
+    content: "React, Bootstrap, Django(WIP)";
+    background-color: #252525;
+    height: 80px;
+    width: 300px;
+    border-radius: 15px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Yantramanav', 'Alata','Darker Grotesque', 'sans-serif';
+    animation-name: pullDown;
+    animation-duration: .15s; 
+}
+
+
+.py{
+    display: flex;
+    background-color: #01A9DB;
+    height: 80px;
+    width: 300px;
+    border-radius: 15px;
+    margin: 5px 15px 15px 15px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 35px;
+    font-family: 'Yantramanav', 'Alata','Darker Grotesque', 'sans-serif';
+}
+
+.py:after{
+    content: "PYTHON";
+}
+
+.py:hover:after{
+    display: flex;
+    content: "Asycio, Gtest, functional/oop, Tkinter";
+    background-color: #252525;
+    height: 80px;
+    width: 300px;
+    border-radius: 15px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 16px;
+    font-family: 'Yantramanav', 'Alata','Darker Grotesque', 'sans-serif';
+    animation-name: pullDown;
+    animation-duration: .15s; 
+}
+
+.mark{
+    display: flex;
+    background-color: #01A9DB;
+    height: 80px;
+    width: 300px;
+    border-radius: 15px;
+    margin: 5px 15px 15px 15px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 35px;
+    font-family: 'Yantramanav', 'Alata','Darker Grotesque', 'sans-serif';
+}
+
+.mark:after{
+    content: "MISC";
+}
+
+.mark:hover:after{
+    display: flex;
+    content: "C++, SQL, HTML, CSS, JS, C#";
+    background-color: #252525;
+    height: 80px;
+    width: 300px;
+    border-radius: 15px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 16px;
+    font-family: 'Yantramanav', 'Alata','Darker Grotesque', 'sans-serif';
+    animation-name: pullDown;
+    animation-duration: .15s; 
+}
+
+.bash{
+    display: flex;
+    background-color: #01A9DB;
+    height: 80px;
+    width: 300px;
+    border-radius: 15px;
+    margin: 5px 15px 15px 15px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 35px;
+    font-family: 'Yantramanav', 'Alata','Darker Grotesque', 'sans-serif';
+}
+
+.bash:after{
+    content: "BASH";
+}
+
+.bash:hover:after{
+    display: flex;
+    content: "Git Version Control, Shell";
+    background-color: #252525;
+    height: 80px;
+    width: 300px;
+    border-radius: 15px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Yantramanav', 'Alata','Darker Grotesque', 'sans-serif';
+    animation-name: pullDown;
+    animation-duration: .15s; 
+}
+
+.dep{
+    display: flex;
+    background-color: #01A9DB;
+    height: 80px;
+    width: 300px;
+    border-radius: 15px;
+    margin: 5px 15px 15px 15px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 35px;
+    font-family: 'Yantramanav', 'Alata','Darker Grotesque', 'sans-serif';
+}
+
+.dep:after{
+    content: "DEPLOYMENT";
+}
+
+.dep:hover:after{
+    display: flex;
+    content: "AWS, UBUNTU";
+    background-color: #252525;
+    height: 80px;
+    width: 300px;
+    border-radius: 15px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Yantramanav', 'Alata','Darker Grotesque', 'sans-serif';
+    animation-name: pullDown;
+    animation-duration: .15s; 
+}
+
+.des{
+    display: flex;
+    background-color: #01A9DB;
+    height: 80px;
+    width: 300px;
+    border-radius: 15px;
+    margin: 5px 15px 15px 15px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 35px;
+    font-family: 'Yantramanav', 'Alata','Darker Grotesque', 'sans-serif';
+}
+
+.des:after{
+    content: "DESIGN";
+}
+
+.des:hover:after{
+    display: flex;
+    content: "Adobe Photoshop/xD, Drawing, Davinci Resolve";
+    background-color: #252525;
+    height: 80px;
+    width: 300px;
+    border-radius: 15px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'Yantramanav', 'Alata','Darker Grotesque', 'sans-serif';
+    animation-name: pullDown;
+    animation-duration: .15s; 
+}

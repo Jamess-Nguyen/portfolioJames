@@ -1,8 +1,10 @@
 import React from 'react';
-import "./skillsBlock.css"
+import "./skillsBlock.css";
+import "./skillsList.css";
 import {Link} from "react-router-dom";
 import ProjectPiece from "./projectPiece";
 import boxDiscordBot from "./boxDiscordBot.jpg";
+
 function SkillsBlock(props) {
     return(
         <div className="skillBox">
@@ -49,6 +51,25 @@ function SkillsBlock(props) {
                             <Link to="Experience" style ={{ textDecoration: 'none'}}><button>./Details</button></Link>
                         </div>
                     </div>
+                </div>
+            </div>
+            <div className="skillsFlex">
+                <div className="title">SKILLS</div>
+            </div>
+            <div className="skillsFlex">
+                <div className="tech">
+                </div>
+                <div className="py">
+                </div>
+                <div className="mark">
+                </div>
+            </div>
+            <div className="skillsFlex">
+                <div className="bash">
+                </div>
+                <div className="dep">
+                </div>
+                <div className="des">
                 </div>
             </div>
         </div>
