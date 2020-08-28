@@ -1,16 +1,16 @@
 import React from 'react';
-import Banner from '..//workEx/banner';
+import Banner from '../workEx/banner';
 import bannerToContent from './aboutContent/bannerToContent.png'
 import './aboutContent/aboutPage.css'
 import SkillsBlock from './aboutContent/skillsBlock'
 import TriangleDOWN from './aboutContent/TriangleDOWN.png'
-function About () {
+function Projects () {
     return(
       <div>
+                  
           <Banner />
           <div id="skillsDesc">
-          <SkillsBlock id="base" />
-
+          <SkillsBlock/>
           </div>
       </div>
       
@@ -18,5 +18,5 @@ function About () {
   }
   
   
-  export default About;
+  export default Projects;
   

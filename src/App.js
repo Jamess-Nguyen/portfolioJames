@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 import './App.css'
 import Experience from "./components/experiencePage";
-import Projects from "./components/projectsPage";
 import Toolbar from './components/navBar/reactNav';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
-import About from './components/aboutPage';
+import Projects from './components/projectPage';
 import { render } from '@testing-library/react';
  
 class App extends Component {
@@ -17,7 +16,7 @@ class App extends Component {
         <Switch>
           <Route path="/" exact component={Home}/>
           <Route path="/Experience" component={Experience} />
-          <Route path="/Projects" component={Projects} />
+          <Route path="/Resume" component={Projects} />
           <Route Path="/Doodles" component={Projects}/>
         </Switch>
       </div>
@@ -29,6 +28,6 @@ class App extends Component {
 }
 
 const Home = () => (
-  <About/>
+  <Projects/>
 );
 export default App;

@@ -4,7 +4,7 @@ import banner from './websiteBanner.png';
 function Banner(props) {
     return(
         <div className="bannerBorder">
-            <button className="bannerButton">/ Download Resume</button>
+            <button className="bannerButton">./GitHub</button>
         </div>
     );
 }

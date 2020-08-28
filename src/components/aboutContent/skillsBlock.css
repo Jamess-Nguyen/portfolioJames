@@ -1,41 +1,187 @@
 
 .skillBox{
-    background-color: yellow;
-    width: 75%;
+    display: block;
+    width: 100%;
     margin: 0 auto;
+    height: 500px;
 }
 
 
 .title{
     width: 300px;
-    background-color: pink;
-    font-size: 3em;
+    font-size: 3.5em;
     text-align: center;
     margin: 0 auto;
+    margin-bottom: 10px;
     font-family: 'Darker Grotesque', sans-serif;
 }
 
 .skillsFlex{
     display: flex;
-    background-color: red;
+    background-color: #E7E6E3;
     justify-content: center;
     align-items: center;
     flex-direction: row;
 }
 
-.testBox{
-    height: 300px;
-    width: 400px;
-    background-color: black;
+.projBox{
+    min-height: 400px;
+    min-width: 600px;
+    background-color: white;
     margin: 5px;
+    transition: background-color 150ms linear;
+
+}
+
+.bigSpacer{
+    height: 195px;
+}
+
+#schedule_bot_9000
+{ 
+    background-image: url(./boxDiscordBot.jpg);
+}
+#content_bot{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 600px;
+    height: 400px;
+    font-size:0;
+}
+#content_bot:hover .backDrop{
+    display: absolute;
+    width: 600px;
+    height: 400px;
+    background-color:rgb(0,0,0, .35) ;
+    transition: background-color 150ms linear;
+    font-size: 20px;
+    color:#f8f9fa;
+    font-family: 'Times New Roman';
+}
+#content_bot button{
+    display:none;
+    transition: 150ms linear;
+}
+#content_bot:hover button{
+    opacity: 1;
+    display: block;
+    background-color: transparent;
+    color:#f8f9fa;
+    transition-delay: 150ms;
+    border: 2px solid #f8f9fa;
+    border-radius: 100px;
+    width: 150px;
+    height: 45px;
+    transition: 150ms linear;
+    margin-left: 15px;
+}
+#content_bot button:hover{
+    color: #D1363A;
+    background-color: #f8f9fa;
+}
+
+#portfolio{
+    background-image: url(./personalWebsiteBox.jpg);
+}
+#content_portfolio{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 600px;
+    height: 400px;
+    font-size:0;
+}
+#content_portfolio:hover .backDrop{
+    display: absolute;
+    width: 600px;
+    height: 400px;
+    background-color:rgb(0,0,0, .35) ;
+    transition: background-color 150ms linear;
+    font-size: 20px;
+    color:#f8f9fa;
+    font-family: 'Times New Roman';
+}
+#content_portfolio button{
+    display:none;
+    transition: 150ms linear;
+}
+#content_portfolio:hover button{
+    opacity: 1;
+    display: block;
+    background-color: transparent;
+    color:#f8f9fa;
+    transition-delay: 150ms;
+    border: 2px solid #f8f9fa;
+    border-radius: 100px;
+    width: 150px;
+    height: 45px;
+    transition: 150ms linear;
+    margin-left: 15px;
+}
+#content_portfolio button:hover{
+    color: #D1363A;
+    background-color: #f8f9fa;
+}
+
+#quizify{
+    background-image: url(./quizify.jpg);
+}
+
+#content_quiz{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 600px;
+    height: 400px;
+    font-size:0;
+}
+#content_quiz:hover .backDrop{
+    display: absolute;
+    width: 600px;
+    height: 400px;
+    background-color:rgb(0,0,0, .35) ;
+    transition: background-color 150ms linear;
+    font-size: 20px;
+    color:#f8f9fa;
+    font-family: 'Times New Roman';
+}
+#content_quiz button{
+    display:none;
+    transition: 150ms linear;
+}
+#content_quiz:hover button{
+    opacity: 1;
+    display: block;
+    background-color: transparent;
+    color:#f8f9fa;
+    transition-delay: 150ms;
+    border: 2px solid #f8f9fa;
+    border-radius: 100px;
+    width: 150px;
+    height: 45px;
+    transition: 150ms linear;
+    margin-left: 15px;
+}
+#content_quiz button:hover{
+    color: #D1363A;
+    background-color: #f8f9fa;
+}
+
+#john_jumper{
+    background-image: url(./john_jumper.jpg)
+}
+.text{
+    margin-left: 15px;
 }
 
 @media all and (max-width: 1000px){
     .skillsFlex{
         display: flex;
-        background-color: red;
+        background-color: #E7E6E3;
         justify-content: center;
         align-items: center;
         flex-direction: column;
+    }
+    .projBox{
+        min-height: 300px;
+        min-width: 400px;
+        background-color: white;
+        margin: 5px;
+        transition: background-color 150ms linear;
     }
 }
