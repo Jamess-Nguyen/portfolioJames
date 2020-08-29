@@ -6,7 +6,6 @@
     height: 500px;
 }
 
-
 .title{
     width: 300px;
     font-size: 3.5em;
@@ -183,7 +182,7 @@
     background-color: black;
 }
 
-@media all and (max-width: 1000px){
+@media all and (max-width: 1200px){
     .skillsFlex{
         display: flex;
         background-color: #E7E6E3;
@@ -191,6 +190,9 @@
         align-items: center;
         flex-direction: column;
     }
+}
+
+@media all and (max-width: 600px){
     .projBox{
         min-height: 300px;
         min-width: 400px;
@@ -198,4 +200,5 @@
         margin: 5px;
         transition: background-color 150ms linear;
     }
+
 }

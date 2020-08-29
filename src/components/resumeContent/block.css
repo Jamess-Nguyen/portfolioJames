@@ -1,0 +1,27 @@
+.flexCenterContainer{
+    display: flex;
+    font-size: 18px;
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+
+.redTitle{
+    font-size: 25px;
+    color: #980000;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+ul{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 3px 0 0 0;
+
+}
+
+.normalText{
+    font-size: 20px;
+}
+
+#marginRight{
+    margin-right: 20%;
+}

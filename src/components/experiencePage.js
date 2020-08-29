@@ -12,7 +12,7 @@ function Experience () {
           company="WJ Development" 
           position="Software Developer"
           image={WJDevelopment}
-          descOne="Worked at a startup to develop various Apps"
+          descOne="Worked at a startup that focused on making bots and game applications"
           descTwo="Developed Discord.Py bot using Asychronous Programming and Mat.Plot.Lib to
                    provide users metrics of all activity"
                     

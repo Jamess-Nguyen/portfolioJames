@@ -1,3 +1,8 @@
 #spacer{
     height: 100px;
 }
+
+.Center{
+    margin: auto;
+    width: 50%;
+}
