@@ -2,7 +2,6 @@ import React from 'react';
 import "./skillsBlock.css";
 import "./skillsList.css";
 import "./footer.css"
-import {Link} from "react-router-dom";
 
 
 function SkillsBlock(props) {
@@ -73,7 +72,7 @@ function SkillsBlock(props) {
                 </div>
             </div>
             <div className="skillsFlex">
-                <div className="title">BUILD LOGS</div>
+                <div className="title">BUILD LOG</div>
             </div>
             <div className="skillsFlex">
                 <div className="iframe-container">

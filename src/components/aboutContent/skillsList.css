@@ -2,7 +2,9 @@
     0% {height: 0px}
     100% {height: 80px}
 }
-
+a{
+    text-decoration: none;
+}
 .iframe-container{
     position: relative;
     max-width: 560px;
