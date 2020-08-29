@@ -3,6 +3,24 @@
     100% {height: 80px}
 }
 
+.iframe-container{
+    position: relative;
+    max-width: 560px;
+    max-height: 315px;
+    width: 100%;
+    padding-bottom: 410px; 
+    height: 0;
+}
+.iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    max-width: 560px;
+    max-height: 315px;
+} 
+
 .tech{
     display: flex;
     background-color: #01A9DB;

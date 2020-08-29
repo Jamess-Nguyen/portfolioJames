@@ -22,8 +22,16 @@
     justify-content: center;
     align-items: center;
     flex-direction: row;
+    
 }
 
+.iconFlex{
+    display: flex;
+    background-color: #E7E6E3;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
 .projBox{
     min-height: 400px;
     min-width: 600px;
@@ -169,6 +177,12 @@
     margin-left: 15px;
 }
 
+
+
+#id{
+    background-color: black;
+}
+
 @media all and (max-width: 1000px){
     .skillsFlex{
         display: flex;
@@ -184,8 +198,4 @@
         margin: 5px;
         transition: background-color 150ms linear;
     }
-}
-
-#id{
-    background-color: black;
 }

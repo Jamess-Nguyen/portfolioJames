@@ -2,6 +2,8 @@ import React from 'react';
 import Appjam from './jobImages/Appjam.jpg';
 import Ex from '..//workEx/workExperience';
 import HackUCI from './jobImages/HackUCI.png';
+import TheFooter from './footer/footer';
+import "./plain.css";
 function Experience () {
   return(
     <div>
@@ -20,6 +22,9 @@ function Experience () {
         descOne="Taught students the fundamental concepts of computer science and debugging"
         descTwo="Developed android app using Google Thunkable" 
         />
+
+        <div id="spacer"></div>
+        <TheFooter/>
     </div>
     
   );

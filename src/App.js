@@ -4,8 +4,7 @@ import Experience from "./components/experiencePage";
 import Toolbar from './components/navBar/reactNav';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import Projects from './components/projectPage';
-import { render } from '@testing-library/react';
- 
+
 class App extends Component {
   render() {
 

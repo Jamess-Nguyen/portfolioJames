@@ -1,0 +1,71 @@
+footer{
+    font-family: "Montserrat","sans-serif";
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 110px;
+    width: 100%;
+    background-color: #252525;
+}
+
+#copyRight{
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+    margin-left: 40px;
+    justify-content: flex-end;
+}
+
+#socials{
+    margin-right: 40px;
+    
+}
+
+#cr{
+    font-family: "Montserrat","sans-serif";
+    background-color: #252525;
+}
+
+#so{
+    font-family: "Montserrat","sans-serif";
+    background-color: #252525;
+    margin-right: 40px;
+}
+
+#git{
+    height: 40px;
+    width: 40px;
+    background-image: url("./footerLogos//github.png");
+    background-size: 40px 40px;
+    margin: 0 10px;
+}
+
+#git:hover{
+    cursor: pointer;
+}
+
+#yt{
+    height: 40px;
+    width: 40px;
+    background-image: url("./footerLogos//youtube.png");
+    background-size: 40px 40px;
+    margin: 0 10px;
+}
+
+#yt{
+    cursor: pointer;
+}
+#linkedIn{
+    height: 40px;
+    width: 40px;
+    background-image: url("./footerLogos//linkedIn.png");
+    background-size: 40px 40px;
+    margin: 0 10px;
+}
+
+#linkedIn{
+    cursor: pointer;
+}
