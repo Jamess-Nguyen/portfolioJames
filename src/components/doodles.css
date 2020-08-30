@@ -1,0 +1,17 @@
+.x1980{
+    display: block;
+    height: 75%;
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.spacer{
+    height: 0px;
+}
+
+@media all and (max-width: 800px){
+    .spacer{
+        height: 200px;
+    }
+}

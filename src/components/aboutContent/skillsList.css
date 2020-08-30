@@ -189,7 +189,7 @@ a{
 
 .dep:hover:after{
     display: flex;
-    content: "AWS, UBUNTU";
+    content: "AWS, Ubuntu, GitHub Pages";
     background-color: #252525;
     height: 80px;
     width: 300px;

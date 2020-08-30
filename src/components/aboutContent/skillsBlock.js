@@ -15,7 +15,7 @@ function SkillsBlock(props) {
                             <div class="text"><br></br>SUMMARY: Discord.Py bot that stores all user data and outputs it on command</div>
                             <div class="text"><br></br>TECHNOLOGIES: Python, Amazon Web Services, Mat.Plot.Lib, Discord.py, CSV </div>
                             <div className="bigSpacer"></div>
-                            <a href="https://github.com/captnw/DiscordUserScheduleBot" target="_blank"><button>./Demo</button></a>
+                            <a href="https://github.com/captnw/DiscordUserScheduleBot" target="_blank"><button>./View Git</button></a>
                         </div>
                     </div>
                 </div>
@@ -23,7 +23,7 @@ function SkillsBlock(props) {
                     <div id="content_portfolio">
                         <div class="backDrop">
                             <div class="text"><br></br>SUMMARY: Personal Website that chronicals my work as an aspiring fullstack developer</div>
-                            <div class="text"><br></br>TECHNOLOGIES: React, Github, HTML, CSS, JS<br></br><br></br> </div>
+                            <div class="text"><br></br>TECHNOLOGIES: React, Github Pages, HTML, CSS, JS<br></br><br></br> </div>
                             <div className="bigSpacer"></div>
                             <a href="https://github.com/Jamess-Nguyen/portfolioJames" target="_blank"><button>./View Git</button></a>
                         </div>

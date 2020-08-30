@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 import './App.css'
-import Experience from "./components/experiencePage";
+import Experience from './components/experiencePage';
 import Toolbar from './components/navBar/reactNav';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import Projects from './components/projectPage';
 import Resume from './components/resumePage';
+import Doodles from './components/doodlesPage';
 class App extends Component {
   render() {
 
@@ -16,7 +17,7 @@ class App extends Component {
           <Route path="/" exact component={Home}/>
           <Route path="/Experience" component={Experience} />
           <Route path="/Resume" component={Resume} />
-          <Route Path="/Doodles" component={Projects}/>
+          <Route Path="/Doodles" component={Doodles}/>
         </Switch>
       </div>
       <Toolbar />

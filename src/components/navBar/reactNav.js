@@ -15,7 +15,7 @@ const Toolbar = (props) => (
         <div className="toolbar_navigation-items">
             <ul>
                 <li class="emptySpacer"></li>
-                <Link to="/"><li><button onClick={topFunction}>Projects</button></li></Link>
+                <Link to="/"><li><button onClick={topFunction} >Projects</button></li></Link>
                 <Link to="Experience"><li><button onClick={topFunction}>Experience</button></li></Link>
                 <Link to="Resume"><li><button onClick={topFunction}>Resume</button></li></Link>
                 <Link to="/Doodles"><li><button onClick={topFunction}>Doodles</button></li></Link>
