@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css'
 import Experience from './components/experiencePage';
 import Toolbar from './components/navBar/reactNav';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import { HashRouter as Router, Switch, Route} from 'react-router-dom';
 import Projects from './components/projectPage';
 import Resume from './components/resumePage';
 import Doodles from './components/doodlesPage';
