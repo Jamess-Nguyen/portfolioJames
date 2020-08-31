@@ -1,12 +1,13 @@
 import React from 'react';
-import LightHouse from "./doodles/LightHouse.png";
 import "./doodles.css";
 import Footer from "./footer/footer";
 function Doodles () {
     return(
       <div>
         <div style={{height:"50px"}}></div>
-        <img src={LightHouse} className="x1980"></img>
+        <div  className="x1980">
+          <div id="lightHouse"></div>
+        </div>
         <div className="spacer"></div>
         <Footer/>
       </div>    

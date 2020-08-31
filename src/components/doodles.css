@@ -1,14 +1,22 @@
 .x1980{
     display: block;
-    height: 75%;
-    width: 75%;
+    height: 100%;
+    width: 100%;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-color: black;
+    background-color: transparent;
 }
 
+#lightHouse{
+    display: block;
+    margin: 0 auto;
+    background-image: url("./doodles/LightHouse.png");
+    background-size: cover;
+    height: 500px;
+    width: 800px;
+}
 .spacer{
-    height: 0px;
+    height: 300px;
 }
 
 @media all and (max-width: 800px){
