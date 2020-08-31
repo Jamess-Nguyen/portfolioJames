@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1994e42fd849df01e0be8a1b6a9866bf",
+    "revision": "4c9fb771cb84c7d4f3cc425339740017",
     "url": "/portfolioJames/index.html"
   },
   {
-    "revision": "9ff8a9559cc124f76d8f",
-    "url": "/portfolioJames/static/css/main.57c12b2f.chunk.css"
+    "revision": "6941d840f4927416ea74",
+    "url": "/portfolioJames/static/css/main.978e4e29.chunk.css"
   },
   {
-    "revision": "0de01bed4cefffa41f12",
-    "url": "/portfolioJames/static/js/2.0339c82f.chunk.js"
+    "revision": "8808ea70332270401c45",
+    "url": "/portfolioJames/static/js/2.119d0f7e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolioJames/static/js/2.0339c82f.chunk.js.LICENSE.txt"
+    "url": "/portfolioJames/static/js/2.119d0f7e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ff8a9559cc124f76d8f",
-    "url": "/portfolioJames/static/js/main.4c6f196a.chunk.js"
+    "revision": "6941d840f4927416ea74",
+    "url": "/portfolioJames/static/js/main.4e39eaf3.chunk.js"
   },
   {
     "revision": "ee309b11d319f94f97de",
     "url": "/portfolioJames/static/js/runtime-main.b81fe726.js"
-  },
-  {
-    "revision": "4e10c5a43c97720e14b391763fc34bcd",
-    "url": "/portfolioJames/static/media/LightHouse.4e10c5a4.png"
   },
   {
     "revision": "6acbcec97cbd95fc6301c5423cd0a9ee",
@@ -38,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7948343df0fe55a20fafaa5c61ddddca",
     "url": "/portfolioJames/static/media/john_jumper.7948343d.jpg"
+  },
+  {
+    "revision": "4e10c5a43c97720e14b391763fc34bcd",
+    "url": "/portfolioJames/static/media/lightHouse.4e10c5a4.png"
   },
   {
     "revision": "242643c89e2c1f42567101b407044e28",
