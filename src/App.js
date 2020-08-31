@@ -14,10 +14,12 @@ class App extends Component {
       <div className="App">
         <div className="toolBarSpacer"></div>
         <Switch>
-          <Route path="/" exact component={Home}/>
           <Route path="/Experience" component={Experience} />
           <Route path="/Resume" component={Resume} />
           <Route Path="/Doodles" component={Doodles}/>
+          <Route path="/" exact component={Home}/>
+
+
         </Switch>
       </div>
       <Toolbar />
