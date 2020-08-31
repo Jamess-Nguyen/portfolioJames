@@ -18,7 +18,7 @@ const Toolbar = (props) => (
                 <Link to="/"><li><button onClick={topFunction} >Projects</button></li></Link>
                 <Link to="Experience"><li><button onClick={topFunction}>Experience</button></li></Link>
                 <Link to="Resume"><li><button onClick={topFunction}>Resume</button></li></Link>
-                <Link to="/Doodles"><li><button onClick={topFunction}>Doodles</button></li></Link>
+                <Link to="Doodles"><li><button onClick={topFunction}>Doodles</button></li></Link>
             </ul>
         </div>
     </nav>

@@ -18,6 +18,7 @@ class App extends Component {
           <Route path="/Experience" component={Experience} />
           <Route path="/Resume" component={Resume} />
           <Route Path="/Doodles" component={Doodles}/>
+
         </Switch>
       </div>
       <Toolbar />
