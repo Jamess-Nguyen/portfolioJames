@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolioJames-ALPHA/static/css/main.0be98794.chunk.css",
-    "main.js": "/portfolioJames-ALPHA/static/js/main.568a6421.chunk.js",
-    "main.js.map": "/portfolioJames-ALPHA/static/js/main.568a6421.chunk.js.map",
-    "runtime-main.js": "/portfolioJames-ALPHA/static/js/runtime-main.3c08125d.js",
-    "runtime-main.js.map": "/portfolioJames-ALPHA/static/js/runtime-main.3c08125d.js.map",
-    "static/js/2.119d0f7e.chunk.js": "/portfolioJames-ALPHA/static/js/2.119d0f7e.chunk.js",
-    "static/js/2.119d0f7e.chunk.js.map": "/portfolioJames-ALPHA/static/js/2.119d0f7e.chunk.js.map",
-    "index.html": "/portfolioJames-ALPHA/index.html",
-    "precache-manifest.84f9aa66131416a4c4add652ed38f2aa.js": "/portfolioJames-ALPHA/precache-manifest.84f9aa66131416a4c4add652ed38f2aa.js",
-    "service-worker.js": "/portfolioJames-ALPHA/service-worker.js",
-    "static/css/main.0be98794.chunk.css.map": "/portfolioJames-ALPHA/static/css/main.0be98794.chunk.css.map",
-    "static/js/2.119d0f7e.chunk.js.LICENSE.txt": "/portfolioJames-ALPHA/static/js/2.119d0f7e.chunk.js.LICENSE.txt",
-    "static/media/LightHouse.png": "/portfolioJames-ALPHA/static/media/LightHouse.4e10c5a4.png",
-    "static/media/aboutPage.css": "/portfolioJames-ALPHA/static/media/bannerToContent.6acbcec9.png",
-    "static/media/skillsBlock.css": "/portfolioJames-ALPHA/static/media/quizify.5daf204c.jpg",
-    "static/media/banner.css": "/portfolioJames-ALPHA/static/media/websiteBanner.1e80e63f.png"
+    "main.css": "/portfolioJames/static/css/main.64bf6908.chunk.css",
+    "main.js": "/portfolioJames/static/js/main.82c65984.chunk.js",
+    "main.js.map": "/portfolioJames/static/js/main.82c65984.chunk.js.map",
+    "runtime-main.js": "/portfolioJames/static/js/runtime-main.b81fe726.js",
+    "runtime-main.js.map": "/portfolioJames/static/js/runtime-main.b81fe726.js.map",
+    "static/js/2.119d0f7e.chunk.js": "/portfolioJames/static/js/2.119d0f7e.chunk.js",
+    "static/js/2.119d0f7e.chunk.js.map": "/portfolioJames/static/js/2.119d0f7e.chunk.js.map",
+    "index.html": "/portfolioJames/index.html",
+    "precache-manifest.1b57605fbb6817b70bdde9b070667faf.js": "/portfolioJames/precache-manifest.1b57605fbb6817b70bdde9b070667faf.js",
+    "service-worker.js": "/portfolioJames/service-worker.js",
+    "static/css/main.64bf6908.chunk.css.map": "/portfolioJames/static/css/main.64bf6908.chunk.css.map",
+    "static/js/2.119d0f7e.chunk.js.LICENSE.txt": "/portfolioJames/static/js/2.119d0f7e.chunk.js.LICENSE.txt",
+    "static/media/LightHouse.png": "/portfolioJames/static/media/LightHouse.4e10c5a4.png",
+    "static/media/aboutPage.css": "/portfolioJames/static/media/bannerToContent.6acbcec9.png",
+    "static/media/skillsBlock.css": "/portfolioJames/static/media/quizify.5daf204c.jpg",
+    "static/media/banner.css": "/portfolioJames/static/media/websiteBanner.1e80e63f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c08125d.js",
+    "static/js/runtime-main.b81fe726.js",
     "static/js/2.119d0f7e.chunk.js",
-    "static/css/main.0be98794.chunk.css",
-    "static/js/main.568a6421.chunk.js"
+    "static/css/main.64bf6908.chunk.css",
+    "static/js/main.82c65984.chunk.js"
   ]
 }
