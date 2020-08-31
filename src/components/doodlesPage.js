@@ -8,7 +8,7 @@ function Doodles () {
         <div  className="x1980">
           <div id="lightHouse"></div>
         </div>
-        <div className="spacer"></div>
+        <div  className="spacer"></div>
         <Footer/>
       </div>    
     );
