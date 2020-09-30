@@ -44,10 +44,10 @@ function SkillsBlock(props) {
                 <div id="john_jumper" className="projBox">
                     <div id="content_quiz">
                         <div class="backDrop">
-                            <div class="text"><br></br>SUMMARY (W.I.P): Unity game where a block named john tries to jump higher than any block ever could</div>
-                            <div class="text"><br></br>TECHNOLOGIES: C#, Unity<br></br><br></br></div>
+                            <div class="text"><br></br>SUMMARY: Unity game where John tries to jump as high as he can!</div>
+                            <div class="text"><br></br>TECHNOLOGIES: C#, Unity, GitHub, Itch.io<br></br><br></br></div>
                             <div className="bigSpacer"></div>
-                            <a href="https://github.com/Jamess-Nguyen/JohnJumper" target="_blank"><button>./View Git</button></a>
+                            <a href="https://jangu.itch.io/johnjumper" target="_blank"><button>./Play</button></a>
                         </div>
                     </div>
                 </div>
@@ -76,7 +76,7 @@ function SkillsBlock(props) {
             </div>
             <div className="skillsFlex">
                 <div className="iframe-container">
-            <iframe max-width="560" max-height="315" src="https://www.youtube.com/embed/nTjk4wlSy80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe max-width="560" max-height="315" src="https://www.youtube.com/embed/OekrLlLfaII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
             <div>

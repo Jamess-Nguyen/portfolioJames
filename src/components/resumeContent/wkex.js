@@ -6,12 +6,12 @@ function Wkex () {
       <div>
           <div className="flexCenterContainer"><div className="redTitle"><em><b>Work Experience:</b></em></div></div>
           <div className="flexCenterContainer"><div className="normalText"><b>Software Developer @ WJ Development</b></div></div>
-          <div className="flexCenterContainer"><div className="normalText">June 2020 - Present</div></div>
+          <div className="flexCenterContainer"><div className="normalText">June 2020 - September 2020</div></div>
           <div className="flexCenterContainer">
             <ul>
                 <li>Worked at a Startup that focused on making bots and game applications</li>
                 <li>Developed a Discord.py bot which Scrapes data of all users in a server and outputs it in Graph format on command</li>
-                <li>Working in Unity to develop a cross platform video game</li>
+                <li>Worked in Unity to develop an endless runner</li>
             </ul>
           </div>
           <div style={{height: "20px"}}></div>
