@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c9fb771cb84c7d4f3cc425339740017",
+    "revision": "2f59aa6de1ee0f5e6b377253f9b105bb",
     "url": "/portfolioJames/index.html"
   },
   {
-    "revision": "6941d840f4927416ea74",
-    "url": "/portfolioJames/static/css/main.978e4e29.chunk.css"
+    "revision": "7e2e73e8125c072a2372",
+    "url": "/portfolioJames/static/css/main.7c672ab8.chunk.css"
   },
   {
-    "revision": "8808ea70332270401c45",
-    "url": "/portfolioJames/static/js/2.119d0f7e.chunk.js"
+    "revision": "8f6e30f0540cd11e72e7",
+    "url": "/portfolioJames/static/js/2.b5e89bf7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolioJames/static/js/2.119d0f7e.chunk.js.LICENSE.txt"
+    "url": "/portfolioJames/static/js/2.b5e89bf7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6941d840f4927416ea74",
-    "url": "/portfolioJames/static/js/main.4e39eaf3.chunk.js"
+    "revision": "7e2e73e8125c072a2372",
+    "url": "/portfolioJames/static/js/main.9b586213.chunk.js"
   },
   {
     "revision": "ee309b11d319f94f97de",
     "url": "/portfolioJames/static/js/runtime-main.b81fe726.js"
+  },
+  {
+    "revision": "8f80253014a248a33b35d7cff8936227",
+    "url": "/portfolioJames/static/media/Bottle.8f802530.png"
+  },
+  {
+    "revision": "32666f099957382f5be2fe4656ab8a76",
+    "url": "/portfolioJames/static/media/Milk.32666f09.png"
   },
   {
     "revision": "6acbcec97cbd95fc6301c5423cd0a9ee",
@@ -32,8 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolioJames/static/media/boxDiscordBot.d541368f.jpg"
   },
   {
-    "revision": "7948343df0fe55a20fafaa5c61ddddca",
-    "url": "/portfolioJames/static/media/john_jumper.7948343d.jpg"
+    "revision": "bfc8784552f03ffef43d747eaee08e26",
+    "url": "/portfolioJames/static/media/girlwithsword.bfc87845.png"
+  },
+  {
+    "revision": "c3022b9960a8c85762b95046d1038044",
+    "url": "/portfolioJames/static/media/john_jumper.c3022b99.jpg"
   },
   {
     "revision": "4e10c5a43c97720e14b391763fc34bcd",
